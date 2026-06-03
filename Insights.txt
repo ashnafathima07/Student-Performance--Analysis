@@ -1,0 +1,4 @@
+1. Reading scores were higher on average than Math scores.
+2. Students who completed the test preparation course performed better.
+3. Female students scored higher in reading and writing.
+4. Math scores showed greater variation among students.
